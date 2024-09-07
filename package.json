@@ -1,0 +1,26 @@
+{
+  "name": "ramji-currency-convertor",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramijrock/ramji-currency-convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ramij Dafadar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ramijrock/ramji-currency-convertor/issues"
+  },
+  "homepage": "https://github.com/ramijrock/ramji-currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
